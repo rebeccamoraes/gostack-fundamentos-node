@@ -1,5 +1,5 @@
 # Desafio: Fundamentos de Node.js :rocket:
-Treinamento dos fundamentos de node.js + TypeScript, introduzindo princípios SOLID e utilizando conceitos de models, repositories e services.
+Treinamento dos fundamentos de **node.js** + **TypeScript**, introduzindo princípios **SOLID** e utilizando conceitos de **models**, **repositories** e **services**.
 
 
 ## Sobre o desafio
